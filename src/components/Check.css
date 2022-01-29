@@ -1,0 +1,15 @@
+.maincom{
+    position: absolute;
+    right: 0;
+    width: 50vw;
+    text-align: center;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* background-color: violet; */
+  }
+  h1{
+      color: black;
+  }

@@ -1,0 +1,16 @@
+.back{
+    padding-top: 100px;
+    height: 100vh;
+    background-image: url("https://bestwallpapers.in/wp-content/uploads/2018/07/wolf-howling-to-moon-minimal-4k-wallpaper-1024x576.jpg");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    /* background-color: rgb(134, 192, 192) ; */
+}
+
+h1{
+    color: white        ;
+}
+.btn{
+    border-color: white;
+    color: white;
+}
